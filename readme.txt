@@ -22,6 +22,14 @@ The pendulum naturally swings under gravity — and you can **click and drag the
 - `README.md` — Project description and instructions.
 - `requirements.txt` — Required Python packages.
 
+
+
+
+
+![Pendulum](pendulum.gif)
+![Pendulum](pendulum2.gif)
+
+
 ---
 
 ## ⚙️ Requirements
