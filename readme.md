@@ -25,11 +25,7 @@ The pendulum naturally swings under gravity — and you can **click and drag the
 
 
 
-
-![Pendulum](https://github.com/Osaidgit/pymunk-simple-pendulum/blob/master/pendulum.gif)
-![Pendulum](pendulum2.gif)
-![Image](https://raw.githubusercontent.com/Osaidgit/pymunk-simple-pendulum/master/pendulum.gif)
-
+![Pendulum Animation](https://github.com/Osaidgit/pymunk-simple-pendulum/raw/master/pendulum.gif)
 
 ---
 
